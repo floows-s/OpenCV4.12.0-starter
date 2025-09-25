@@ -1,23 +1,7 @@
-# amb_led_tv_V2
-
-I working again on this project but now i am also finishing it... I want to rewrite all my code so might as well just open a new repo. The other repo is not that important and could be deleted if not needed anymore. This repo will hold the most recent code.
-
-
-## Real readme
-
-This is meant for the linux (this includes raspberry pi).
-Made with OpenCV 4.x
-
-
-## Installation
-This repo includes instalation for linux and windows. 
-
-### Specs
-- Installs OpenCV V4.12.0
+This repo helps you get started with your OpenCV project. It will install OpenCV V4.12.0 for windows or linux.
 
 #### Windows
 - Tested with Visual Studio Community 2022 (64-bit) V17.14.15.
-
 
 ### Windows
 Follow the steps down below to setup OpenCV for windows in a Visual Studio C++ project. This way you can compile the code with Visual Studio.
