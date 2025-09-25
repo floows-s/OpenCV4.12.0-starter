@@ -1,10 +1,8 @@
 This repo helps you get started with your OpenCV project. It will install OpenCV V4.12.0 for windows or linux.
 
-#### Windows
-- Tested with Visual Studio Community 2022 (64-bit) V17.14.15.
-
 ### Windows
 Follow the steps down below to setup OpenCV for windows in a Visual Studio C++ project. This way you can compile the code with Visual Studio.
+Tested with Visual Studio Community 2022 (64-bit) V17.14.15.
 
 #### Installing OpenCV
 1. Run OpenCV installation batch script in the Install folder. This will download the OpenCV V4.12.0 self extracting archieve and run it. This has the OpenCV library pre-buildt. It will extract directly into the C:\opencv folder. This is recommended by OpenCV. (https://docs.opencv.org/4.x/d3/d52/tutorial_windows_install.html at "Building the library", step 5) 
@@ -39,3 +37,6 @@ We are almost there, keep going!
 
 And now you are done! You can run the test_code.cpp to see if it works.
 If it doesnt work please restart Visual Studio or your PC. 
+
+### Linux
+[WORK IN PROGRESS]
