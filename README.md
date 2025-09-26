@@ -5,7 +5,7 @@ Follow the steps down below to setup OpenCV for windows in a Visual Studio C++ p
 Tested with Visual Studio Community 2022 (64-bit) V17.14.15.
 
 #### Installing OpenCV
-1. Run OpenCV installation batch script in the Install folder. This will download the OpenCV V4.12.0 self extracting archieve and run it. This has the OpenCV library pre-buildt. It will extract directly into the C:\opencv folder. This is recommended by OpenCV. (https://docs.opencv.org/4.x/d3/d52/tutorial_windows_install.html at "Building the library", step 5) 
+1. Run OpenCV installation batch script for windows in the Install folder. This will download the OpenCV V4.12.0 self extracting archieve and run it. This has the OpenCV library pre-buildt. It will extract directly into the C:\opencv folder. This is recommended by OpenCV. (https://docs.opencv.org/4.x/d3/d52/tutorial_windows_install.html at "Building the library", step 5) 
 
 #### Linking OpenCV directories to project
 2. Create a new (empty) C++ project with Visual Studio if you havent already.
