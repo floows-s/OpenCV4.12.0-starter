@@ -1,5 +1,3 @@
-echo "Work in progress!"
-
 mkdir temp
 curl -L -o .\temp\opencv-4.12.0-windows.exe https://github.com/opencv/opencv/releases/download/4.12.0/opencv-4.12.0-windows.exe
 
