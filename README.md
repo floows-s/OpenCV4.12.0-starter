@@ -1,6 +1,7 @@
 This repo helps you get started with your OpenCV project. It will install OpenCV V4.12.0 for windows or linux and help you compile it. It also includes test code you can run.
 
 ### Windows
+#### NOTE: this will all be replaced by cmake. In progress...
 Follow the steps down below to setup OpenCV for windows in a Visual Studio C++ project. This way you can compile the code with Visual Studio.
 Tested with Visual Studio Community 2022 (64-bit) V17.14.15.
 
